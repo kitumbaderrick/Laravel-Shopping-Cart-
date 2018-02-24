@@ -1,0 +1,22 @@
+
+.card{
+    
+    margin-top:15px;
+    width: 20rem;
+    height: 28rem;
+}
+
+.card img{
+
+    height: 15rem;
+    
+   
+    }
+ .price{
+     font-size:14px;
+     font-weight: bold;
+ }   
+ .pull-right{
+     margin-left:42px;
+     margin-top:35px;
+ }
